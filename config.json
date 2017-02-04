@@ -1,0 +1,8 @@
+{
+    "dbuser":"root",
+    "dbpass":"sasasa",
+    "dbname":"ranking",
+    "dbhost":"ranking_mysql",
+    "dbport":3306,
+    "dbcharset":"utf-8"
+}
